@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserMaintenance", "UserMaintenance\UserMaintenance.csproj", "{A153AC20-B4B0-4C80-B2AC-9A423963845A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelExport", "..\..\ExcelExport\ExcelExport.csproj", "{C071AADB-A070-4F1C-B61D-197BFDA2000B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A153AC20-B4B0-4C80-B2AC-9A423963845A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A153AC20-B4B0-4C80-B2AC-9A423963845A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A153AC20-B4B0-4C80-B2AC-9A423963845A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C071AADB-A070-4F1C-B61D-197BFDA2000B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C071AADB-A070-4F1C-B61D-197BFDA2000B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C071AADB-A070-4F1C-B61D-197BFDA2000B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C071AADB-A070-4F1C-B61D-197BFDA2000B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
